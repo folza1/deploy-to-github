@@ -24,7 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
-        <p>Hello World Most már tényleg!!!!!</p>
+        <p>Hello World Most már tényleg222!!!!!</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
