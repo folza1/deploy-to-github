@@ -24,7 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
-        <p>Hello World!!!!! Kellett egy build-elés helyben.</p>
+        <p>Hello World!!! From GitHub Action build and deploy.</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
